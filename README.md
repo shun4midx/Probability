@@ -1,3 +1,3 @@
 # Probability
 
-Shun's Introduction to Probability Notes for Spring 2026
+Shun's Introduction to Probability Theory Notes for Spring 2026
